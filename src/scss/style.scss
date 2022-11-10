@@ -6,7 +6,7 @@ $default-size : 1.8em;
   @return $default-size * ($size/100);
 }
 h1  {
-  font-size: size(120); (Schriftgröße = 120% des Basiswertes)
+  font-size: size(100); (Schriftgröße = 120% des Basiswertes)
 color: $fontcolor;
   margin-bottom: 20px;
 }
